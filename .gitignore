@@ -1,0 +1,25 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Builds y paquetes
+build/
+dist/
+*.zip
+
+# Ajustes locales y editores
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.log
+settings.json
+Thumbs.db
+.DS_Store
